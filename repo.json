@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "Moonhell",
+        "Name": "ChocoboRacer",
+        "Description": "Chocobo Racer - a chocobo racing plugin!",
+        "InternalName": "ChocoboRacer",
+        "AssemblyVersion": "1.0.0.6",
+        "RepoUrl": "https://github.com/byteknown/chocobo-client",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chocobo",
+            "racing",
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
+        "DownloadCount": 1,
+        "LastUpdated": "1657534699"
+    }
+
+]
