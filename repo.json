@@ -4,7 +4,7 @@
         "Name": "ChocoboRacer",
         "Description": "Chocobo Racer - a chocobo racing plugin!",
         "InternalName": "ChocoboRacer",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/byteknown/chocobo-client",
         "ApplicableVersion": "any",
         "Tags": [
