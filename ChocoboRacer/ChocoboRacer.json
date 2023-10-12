@@ -2,7 +2,7 @@
   "Author": "Moonhell",
   "Name": "Chocobo Racer",
   "InternalName": "ChocoboRacer",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.1.0",
   "Description": "Open the main window using /chocoboracer",
   "ApplicableVersion": "any",
   "Tags": [
