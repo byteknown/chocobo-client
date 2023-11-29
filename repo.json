@@ -14,11 +14,11 @@
             "discord"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacerClient/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacerClient/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacerClient/latest.zip",
         "LastUpdated": "29102023"
     }
 
