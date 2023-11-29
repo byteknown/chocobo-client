@@ -1,7 +1,7 @@
 [
     {
         "Author": "Moonhell",
-        "Name": "ChocoboRacer",
+        "Name": "ChocoboRacer Client",
         "Description": "Chocobo Racer - a chocobo racing plugin!",
         "InternalName": "ChocoboRacerClient",
         "AssemblyVersion": "2.0.0.0",
