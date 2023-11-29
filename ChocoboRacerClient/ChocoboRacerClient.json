@@ -1,6 +1,6 @@
 {
   "Author": "Moonhell",
-  "Name": "ChocoboRacer",
+  "Name": "ChocoboRacer Client",
   "InternalName": "ChocoboRacerClient",
   "AssemblyVersion": "0.0.0.1",
   "Description": "Open the main window using /gamba",
