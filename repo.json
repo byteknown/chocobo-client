@@ -1,9 +1,9 @@
 [
     {
-        "Author": "Moonhell",
-        "Name": "ChocoboRacer Client",
+        "Author": "Moonhell & ACutiePie",
+        "Name": "ChocoboRacer",
         "Description": "Chocobo Racer - a chocobo racing plugin!",
-        "InternalName": "ChocoboRacerClient",
+        "InternalName": "ChocoboRacer",
         "AssemblyVersion": "3.0.0.1",
         "RepoUrl": "https://github.com/byteknown/chocobo-client",
         "ApplicableVersion": "any",
