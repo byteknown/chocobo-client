@@ -4,7 +4,7 @@
         "Name": "ChocoboRacer Client",
         "Description": "Chocobo Racer - a chocobo racing plugin!",
         "InternalName": "ChocoboRacerClient",
-        "AssemblyVersion": "2.0.0.1",
+        "AssemblyVersion": "3.0.0.1",
         "RepoUrl": "https://github.com/byteknown/chocobo-client",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacerClient/latest.zip",
         "DownloadLinkUpdate": "https://github.com/byteknown/chocobo-client/raw/main/ChocoboRacerClient/latest.zip",
-        "LastUpdated": "29102023"
+        "LastUpdated": "07022024"
     }
 
 ]
